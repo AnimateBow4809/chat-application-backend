@@ -70,6 +70,4 @@ public class SearchController {
             return ResponseEntity.badRequest().body(null);
         }
     }
-
-
 }
