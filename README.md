@@ -46,4 +46,4 @@ This Spring Boot application demonstrates the integration of WebSocket for real-
   - DELETE /api/resource/{id}
 
 ## Contributors
-- [Your Name](https://github.com/yourprofile)
+- [AnimateBow4809](https://github.com/AnimateBow4809/AnimateBow4809/tree/main)
