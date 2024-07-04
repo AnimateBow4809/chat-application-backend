@@ -4,17 +4,11 @@ import bow.animate.cnchatapp.entity.Chat;
 import bow.animate.cnchatapp.entity.User;
 import bow.animate.cnchatapp.service.interfaces.ChatService;
 import bow.animate.cnchatapp.service.interfaces.UserService;
-import ch.qos.logback.core.testUtil.RandomUtil;
-import com.fasterxml.jackson.core.JsonProcessingException;
-import com.fasterxml.jackson.databind.ObjectMapper;
-import com.fasterxml.jackson.databind.util.JSONPObject;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import java.util.Random;
 
 import java.util.*;
-import java.util.random.RandomGenerator;
 
 @RestController
 @RequestMapping("/api/search")
